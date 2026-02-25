@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"/Users/shivanshneekhra/Downloads/CP_CONTEST/Alice&Bob/c.cpp","tests":[{"id":1770643566495,"input":"5\n2\nAB\n2\nBA\n4\nABAB\n4\nBABA\n3\nBAA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/shivanshneekhra/Downloads/CP_CONTEST/Alice&Bob/c.cpp","group":"local","local":true}
